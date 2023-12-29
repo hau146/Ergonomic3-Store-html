@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url('/test/login/bg-login.png') no-repeat;
+    background: url('/login/bg-login.png') no-repeat;
     background-size: cover;
 }
 .form-signin{
